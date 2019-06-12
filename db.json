@@ -1,7 +1,0 @@
-{  "client":{
-  "regclient": true,
-  "docclient": [
-    {"id": 1, "code": 401, "tier": "reglement facture client", "amountTTC": 50, "documentDate":"17-05-2019" },
-    {"id": 2, "code": 411, "tier": "caisse", "amountTTC": 50, "documentDate": "17-05-2019"}
-  ]
-}}
