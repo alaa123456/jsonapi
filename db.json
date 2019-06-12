@@ -5,7 +5,7 @@
     {"id": 2, "code": 512, "tier": "caisse", "amountTTC": 50, "documentDate": "17-05-2019"}
   ]
 }
-"client":{
+{
   "regclient": false,
   "docclient": [
     {"id": 1, "code": 411, "tier": "reglement facture fournisseur", "amountTTC": 80, "documentDate":"02-01-2019" },
