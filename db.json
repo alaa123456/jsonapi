@@ -1,5 +1,5 @@
 { 
-  "client":
+
 {
   "regclient": true,
   "docclient": [
@@ -7,7 +7,7 @@
     {"id": 2, "code": 512, "tier": "caisse", "amountTTC": 50, "documentDate": "17-05-2019"}
   ]
 },
-"fournisseur":
+
 {
   "regclient": false,
   "docclient": [
