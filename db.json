@@ -1,11 +1,11 @@
     
-{ "document": {
+{ "documentclient":[ {
                   'code' : 401,
                   'tier': 'facture reglement client',
    
-                  'amountTTC':50,
+                  'amountTTC': 50,
                   'documentDate':'17-05-2019'
-                  'regclient':true
+                  'regclient': true
                 },
                 {
                   'code' : 512,
@@ -13,11 +13,12 @@
    
                   'amountTTC':50,
                   'documentDate':'17-05-2019'
-                }
-"document": {
+                }]
+"document":[ 
+               {
                   'code' : 411,
                   'tier': 'facture reglement fournisseur',
-   
+                  'regclient': false                 
                   'amountTTC':80,
                   'documentDate':'18-04-2019'
                 },
@@ -27,5 +28,5 @@
    
                   'amountTTC':80,
                   'documentDate':'17-05-2019'
-                }
+                }]
 }
