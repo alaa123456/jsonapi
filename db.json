@@ -1,8 +1,8 @@
 {
-  "documentc": [
+  
     {'code' : 401,'tier':'facture reglement client','regclient':true,'amountTTC':50,'documentDate':'17-05-2019' },
     {'code' : 512,'tier': 'caisse','amountTTC':50,'documentDate':'17-05-2019'}
     
-  ]
+
 
 }
